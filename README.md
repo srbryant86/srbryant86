@@ -4,8 +4,6 @@ I am a certified Alabama teacher, Class A in Social Studies (6-12), with a Compu
 
 In 2024 I founded CertNode, a software company. I built it end to end: three applications that passed Stripe's App Marketplace review, a Shopify app, a WordPress plugin, and open-source developer kits, all serving paying merchants. Mostly TypeScript, Node, and SQL, working against the Stripe and Anthropic APIs.
 
-CertNode's application code is private. What lives here is the part that should be public.
-
 ### Instructional work
 
 **[Trust, but Verify: Safely Using AI-Generated Content at Work](https://srbryant86.github.io/ai-at-work-rise-module/)**
