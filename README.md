@@ -1,10 +1,8 @@
 ## Steven Bryant
 
-I teach, and I build software.
+I am a certified Alabama teacher, Class A in Social Studies (6-12), with a Computer Science course permit and an M.A. in Education from the University of North Alabama. I have taught in three Alabama school systems.
 
-**Teaching.** I am certified in Alabama, Class A in Social Studies (6-12), with a Computer Science course permit and an M.A. in Education from the University of North Alabama. I have taught in three Alabama school systems.
-
-**Software.** I founded CertNode in 2024 and built it end to end: three applications that passed Stripe's App Marketplace review, a Shopify app, a WordPress plugin, and open-source developer kits, all serving paying merchants. Mostly TypeScript, Node, and SQL, working against the Stripe and Anthropic APIs.
+In 2024 I founded CertNode, a software company. I built it end to end: three applications that passed Stripe's App Marketplace review, a Shopify app, a WordPress plugin, and open-source developer kits, all serving paying merchants. Mostly TypeScript, Node, and SQL, working against the Stripe and Anthropic APIs.
 
 CertNode's application code is private. What lives here is the part that should be public.
 
@@ -22,11 +20,11 @@ A source-based U.S. history and civic-judgment curriculum system. Six units, bui
 ### Code
 
 **[certnode-verify](https://github.com/srbryant86/certnode-verify)**
-Offline verification for CertNode receipts. ES256, RFC 3161 timestamps, Bitcoin anchoring. Don't trust us, verify.
+Offline verification for CertNode receipts. ES256, RFC 3161 timestamps, Bitcoin anchoring.
 
 **[silent-write-audit](https://github.com/srbryant86/silent-write-audit)**
 Static analysis for a silent-failure bug class in Supabase and PostgREST writes, where one bad column name makes the database quietly drop the entire statement and return success.
 
-### Now
+---
 
-Living in Alabama. Open to remote work in AI literacy, curriculum design, and educational technology.
+Alabama. Open to remote work in AI literacy, curriculum design, and educational technology.
